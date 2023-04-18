@@ -1,5 +1,5 @@
 CAUTION:
-Not tested on DELTA Printer. I can produce errors because the 0,0 Point is in the middle of the bed not in the corner.
+Untested on Delta printers. Potential errors may occur as the origin (0,0) is located at the center of the bed rather than the corner.
 
 
 
