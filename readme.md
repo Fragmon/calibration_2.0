@@ -1,2 +1,3 @@
 New path:
-https://github.com/Fragmon/calibration_2.0
+https://github.com/cryd-s/klipper_scripts/tree/main/calibration_2.0
+
